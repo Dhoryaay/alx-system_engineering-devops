@@ -1,2 +1,2 @@
 #!/bin/bash
-9. mv [[:upper:]]* /tmp/u
+mv [[:upper:]]* /tmp/u
