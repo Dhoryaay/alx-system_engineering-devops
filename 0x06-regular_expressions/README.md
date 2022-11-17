@@ -1,6 +1,5 @@
 # 0x06 Regular expression
 Directory files
-File | Description
+**File** | **Description**
 --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+`0-simply_match_school.rb` | A regular expression that matches `School
