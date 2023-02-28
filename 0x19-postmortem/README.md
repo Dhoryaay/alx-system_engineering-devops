@@ -4,6 +4,7 @@ On March 1st, 2023, between 10:00 AM and 2:00 PM EST, the online banking service
 Timeline:
 
 10:00 AM EST: The issue was detected by our monitoring system, which alerted our on-call engineer.
+
 10:05 AM EST: The engineer investigated the issue and found that the online banking service was not responding.
 10:10 AM EST: The engineer notified the incident response team and began investigating the cause of the issue.
 10:20 AM EST: The team started investigating the network, database, and application layers to identify the root cause of the issue.
